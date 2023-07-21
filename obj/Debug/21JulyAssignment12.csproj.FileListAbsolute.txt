@@ -1,0 +1,8 @@
+D:\21JulyAssignment12\21JulyAssignment12\bin\Debug\21JulyAssignment12.exe.config
+D:\21JulyAssignment12\21JulyAssignment12\bin\Debug\21JulyAssignment12.exe
+D:\21JulyAssignment12\21JulyAssignment12\bin\Debug\21JulyAssignment12.pdb
+D:\21JulyAssignment12\21JulyAssignment12\obj\Debug\21JulyAssignment12.csproj.AssemblyReference.cache
+D:\21JulyAssignment12\21JulyAssignment12\obj\Debug\21JulyAssignment12.csproj.SuggestedBindingRedirects.cache
+D:\21JulyAssignment12\21JulyAssignment12\obj\Debug\21JulyAssignment12.csproj.CoreCompileInputs.cache
+D:\21JulyAssignment12\21JulyAssignment12\obj\Debug\21JulyAssignment12.exe
+D:\21JulyAssignment12\21JulyAssignment12\obj\Debug\21JulyAssignment12.pdb
